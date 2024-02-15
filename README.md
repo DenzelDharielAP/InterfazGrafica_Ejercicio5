@@ -1,5 +1,9 @@
 Crear un programa que lea el presupuesto de un hospital y distribuirlo en porcentajes específicos entre distintos departamentos.
 
+Porcentajes entre departamentos:
+
+[![imagen-2024-02-14-221410160.png](https://i.postimg.cc/Gpp9BPCc/imagen-2024-02-14-221410160.png)](https://postimg.cc/5XZfTCyG)
+
 1: Vista inicial
 
 [![imagen-2024-02-13-211800446.png](https://i.postimg.cc/8PZvWK79/imagen-2024-02-13-211800446.png)](https://postimg.cc/nCQMf1YG)
